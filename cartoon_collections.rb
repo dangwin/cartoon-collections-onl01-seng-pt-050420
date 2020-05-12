@@ -16,7 +16,8 @@ end
 
 def long_planeteer_calls(calls)
    answer = false 
-   calls.each do |
+   calls.each do |call|
+     if call.length 
   
   
 
